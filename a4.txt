@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi this is srinu from master
+=======
+this is srinu11111111111 from branch1
+>>>>>>> branch1
